@@ -122,8 +122,8 @@ devDependencies:
     specifier: 3.0.9
     version: 3.0.9
   '@types/passport-local':
-    specifier: 1.0.35
-    version: 1.0.35
+    specifier: 1.0.38
+    version: 1.0.38
   '@types/supertest':
     specifier: 2.0.12
     version: 2.0.12
@@ -1804,8 +1804,8 @@ packages:
       '@types/passport-strategy': 0.2.37
     dev: true
 
-  /@types/passport-local@1.0.35:
-    resolution: {integrity: sha512-K4eLTJ8R0yYW8TvCqkjB0pTKoqfUSdl5PfZdidTjV2ETV3604fQxtY6BHKjQWAx50WUS0lqzBvKv3LoI1ZBPeA==}
+  /@types/passport-local@1.0.38:
+    resolution: {integrity: sha512-nsrW4A963lYE7lNTv9cr5WmiUD1ibYJvWrpE13oxApFsRt77b0RdtZvKbCdNIY4v/QZ6TRQWaDDEwV1kCTmcXg==}
     dependencies:
       '@types/express': 4.17.17
       '@types/passport': 1.0.14
