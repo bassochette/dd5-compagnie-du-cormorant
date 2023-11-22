@@ -110,8 +110,8 @@ devDependencies:
     specifier: 29.5.3
     version: 29.5.3
   '@types/maildev':
-    specifier: 0.0.4
-    version: 0.0.4
+    specifier: 0.0.7
+    version: 0.0.7
   '@types/node':
     specifier: 18.17.1
     version: 18.17.1
@@ -1757,8 +1757,8 @@ packages:
       '@types/node': 18.17.1
     dev: true
 
-  /@types/maildev@0.0.4:
-    resolution: {integrity: sha512-Pu0O0+lIS4IWbQB2ViuZW8EP8L7Q5VIn+wzvtdRzrV/18lonI0NAjodCRK1XxjPYNKGip5cBpUp8oaGhzEejsQ==}
+  /@types/maildev@0.0.7:
+    resolution: {integrity: sha512-8Xs2PFd7SA2tAojYuAISTcE+IrrZysfuDQcwiE/cDMbErw2OyAHbO1yiJyYODnmdb/7dUIH7uaTrqK8H+kPB5w==}
     dependencies:
       '@types/node': 18.17.1
     dev: true
